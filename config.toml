@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://pandugadu.com/"
+#baseURL = "http://pandugadu.com/"
 languageCode = "en-us"
 title = "Pandugadu Site"
 
